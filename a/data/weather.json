@@ -1,73 +1,45 @@
 [
     {
         "day": "Monday",
-        "highTemperature": 28,
-        "lowTemperature": 14,
-        "image": "shower"
+		"letter":"M"
     }, {
         "day": "Tuesday",
-        "highTemperature": 35,
-        "lowTemperature": 18,
-        "image": "sunny"
+	"letter":"T"
     }, {
         "day": "Wednesday",
-        "highTemperature": 30,
-        "lowTemperature": 16,
-        "image": "partly-sunny"
+"letter":"W"
     }, {
         "day": "Thursday",
-        "highTemperature": 28,
-        "lowTemperature": 13,
-        "image": "sunny"
+"letter":"T"
     }, {
         "day": "Friday",
-        "highTemperature": 22,
-        "lowTemperature": 12,
-        "image": "cloudy"
+"letter":"F"
     }, {
         "day": "Saturday",
-        "highTemperature": 21,
-        "lowTemperature": 14,
-        "image": "foggy"
+"letter":"S"
     }, {
         "day": "Sunday",
-        "highTemperature": 33,
-        "lowTemperature": 15,
-        "image": "storm"
+"letter":"S"
     }, {
         "day": "Monday",
-        "highTemperature": 28,
-        "lowTemperature": 14,
-        "image": "shower"
+"letter":"M"
     }, {
         "day": "Tuesday",
-        "highTemperature": 35,
-        "lowTemperature": 18,
-        "image": "sunny"
+"letter":"T"
     }, {
         "day": "Wednesday",
-        "highTemperature": 30,
-        "lowTemperature": 16,
-        "image": "partly-sunny"
+"letter":"W"
     }, {
         "day": "Thursday",
-        "highTemperature": 28,
-        "lowTemperature": 13,
-        "image": "sunny"
+"letter":"T"
     }, {
         "day": "Friday",
-        "highTemperature": 22,
-        "lowTemperature": 12,
-        "image": "cloudy"
+"letter":"F"
     }, {
         "day": "Saturday",
-        "highTemperature": 21,
-        "lowTemperature": 14,
-        "image": "foggy"
+"letter":"S"
     }, {
         "day": "Sunday",
-        "highTemperature": 33,
-        "lowTemperature": 15,
-        "image": "storm"
+"letter":"S"
     } 
 ]

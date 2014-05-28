@@ -17,7 +17,10 @@
                         url: "data/weather.json",
                         dataType: "json"
                     }
-                }
+                    
+                },
+                group:{field:"letter"}
+                
             });
 
             that.set("weatherDataSource", dataSource);
